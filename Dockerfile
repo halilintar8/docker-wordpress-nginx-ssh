@@ -1,4 +1,4 @@
-FROM ubuntu:14.04
+FROM ubuntu:14.048
 MAINTAINER Tyler Longren <tyler@longren.io>
 
 # Keep upstart from complaining
