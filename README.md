@@ -26,7 +26,7 @@ If you'd like to build the image yourself:
 ```bash
 $ git clone https://github.com/tlongren/docker-wordpress-nginx-ssh.git
 $ cd docker-wordpress-nginx-ssh
-$ sudo docker build -t="tlongren/docker-wordpress-nginx-ssh"
+$ sudo docker build -t="tlongren/docker-wordpress-nginx-ssh" .
 ```
 
 ## Usage
