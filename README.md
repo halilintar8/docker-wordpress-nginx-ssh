@@ -74,3 +74,4 @@ $ sudo docker logs docker-name
 
 [![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/tlongren/docker-wordpress-nginx-ssh/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
 
+[![](https://images.microbadger.com/badges/version/halilintar8/docker-wordpress-nginx-ssh.svg)](http://microbadger.com/images/halilintar8/docker-wordpress-nginx-ssh "Get your own version badge on microbadger.com")
