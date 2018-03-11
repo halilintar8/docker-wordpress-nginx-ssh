@@ -1,7 +1,7 @@
 FROM ubuntu:14.04
 MAINTAINER halilintar8 <halilintar8@yahoo.com>
 
-# Keep upstart from complaining
+# Keep upstart from complaining 
 RUN dpkg-divert --local --rename --add /sbin/initctl
 RUN ln -sf /bin/true /sbin/initctl
 RUN mkdir /var/run/sshd
